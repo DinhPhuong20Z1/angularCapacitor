@@ -31,4 +31,5 @@ Links:
 - https://devdactic.com/native-app-angular-capacitor
 - https://capacitorjs.com/docs/v3/getting-started/environment-setup
 - https://dashboard.ionicframework.com/personal/apps
+- https://auth0.com/docs/quickstart/native/ionic-angular/01-login
 # angularCapacitor
